@@ -1,4 +1,4 @@
-*The following presentation is directly adapted from the original README file of the forked repository.*  
+*The following presentation is closely adapted from the original README file of the forked repository. Most assignments of the Data specialization curriculum were usually submitted through the internal platform for confidentiality reasons (to prevent plagiarism). This was an exercise to be submitted via Github. *  
 
 ## Introduction
 
