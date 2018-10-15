@@ -1,6 +1,8 @@
+*The following presentation is directly adapted from the original README file of the forked repository.*  
+
 ## Introduction
 
-This assignment is made for the Data Specialization track offered by Johns Hopkins University with Coursera.
+This assignment has been made for the Data Specialization track offered by Johns Hopkins University with Coursera.
 It uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
@@ -36,22 +38,24 @@ web site</a>:
 
 ## Loading the data
 
-If you intend to load the dataset into R for yourself, please consider the following:
+*Professor Roger Peng wrote these indications to help the students load the data:*
 
-* The dataset has 2,075,259 rows and 9 columns. First
+> If you intend to load the dataset into R for yourself, please consider the following:
+
+> The dataset has 2,075,259 rows and 9 columns. First
 calculate a rough estimate of how much memory the dataset will require
 in memory before reading into R. Make sure your computer has enough
 memory (most modern computers should be fine).
 
-* For this repo assignment we only used data from the dates 2007-02-01 and
+> For this repo assignment we only used data from the dates 2007-02-01 and
 2007-02-02. One alternative is to read the data from just those dates
 rather than reading in the entire dataset and subsetting to those
 dates.
 
-* You may find it useful to convert the Date and Time variables to
+> You may find it useful to convert the Date and Time variables to
 Date/Time classes in R.
 
-* Note that in this dataset missing values are coded as `?`.
+> Note that in this dataset missing values are coded as `?`.
 
 
 ## Making Plots
